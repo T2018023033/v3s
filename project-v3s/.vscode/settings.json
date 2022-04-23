@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "thread_pool.h": "c",
+        "stat.h": "c",
+        "uart.h": "c",
+        "cjson.h": "c",
+        "msg_queue.h": "c",
+        "server_net.h": "c",
+        "sqlitedbms_client.h": "c",
+        "memsha.h": "c",
+        "stdio.h": "c",
+        "cmd_deal.h": "c"
+    }
+}
